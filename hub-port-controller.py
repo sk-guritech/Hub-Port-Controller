@@ -1,7 +1,7 @@
 '''
 hub-port-controller
 
-Copyright (c) 2020 S.K. Technology Firm
+Copyright (c) 2020 S.K. Technology Firm, @GuriTech
 
 Released under the MIT License
 '''
