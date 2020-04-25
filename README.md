@@ -1,5 +1,5 @@
 # Hub-Port-Controller
-You can controller USB hub port power feature and view port status by this script.
+You can control USB hub port power feature and view port statuses by this script.
 
 ## Usage
 ```
